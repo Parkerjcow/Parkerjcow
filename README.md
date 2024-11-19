@@ -1,5 +1,4 @@
-Hi there 👋
-## Hey 👋, This is Parker Cowden
+## Hey 👋 I'm Parker Cowden
 [![Gmail Badge](https://img.shields.io/badge/-parkerjcowden@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:parkerjcowden@gmail.com)](mailto:parkerjcowden@gmail.com) 
 [![Linkedin Badge](https://img.shields.io/badge/-linkedin.com/in/parkerjcowden1337/-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/parkerjcowden1337//)](https://www.linkedin.com/in/parkerjcowden1337//) [![Github Badge](https://img.shields.io/badge/-Parkerjcow-grey?style=flat&logo=github&logoColor=white&link=https://github.com/Parkerjcow/)](https://www.github.com/Parkerjcow/) [![Portfolio Badge](https://img.shields.io/badge/portfolio-web-blue?style=flat&link=https://github.com/Parkerjcow/)](https://github.com/Parkerjcow/) <p align='left'>Hello! I'm a data analyst with a passion for transforming complex data into valuable insights that empower smarter business decisions. Proficient in SQL, Tableau, and Power BI, I specialize in data cleaning, visualization, and analysis, leveraging these tools to uncover trends and extract actionable insights.
 
